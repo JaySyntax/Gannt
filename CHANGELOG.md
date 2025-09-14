@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initial release of the Gantt Calendar package.
+- Features include multi-month view, customizable styling, task visualization, and more.
