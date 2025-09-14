@@ -4,9 +4,18 @@ A flexible and customizable Gantt chart calendar widget for Flutter applications
 
 ## Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/07762d27-ad7f-4971-9b09-3382424e0a87" alt="Gantt Calendar Demo" width="300">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>iOS</strong><br>
+      <img src="https://github.com/user-attachments/assets/07762d27-ad7f-4971-9b09-3382424e0a87" alt="Gantt Calendar iOS Demo" width="300">
+    </td>
+    <td align="center">
+      <strong>Android</strong><br>
+      <img src="https://firebasestorage.googleapis.com/v0/b/claire-412b8.appspot.com/o/android_demo.gif?alt=media&token=5b8c5ee9-af86-4640-8128-7774ce30ed49" alt="Gantt Calendar Android Demo" width="300">
+    </td>
+  </tr>
+</table>
 
 ## Features
 
