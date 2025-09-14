@@ -1,7 +1,8 @@
 name: gantt_calendar
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "A Flutter package for creating Gantt charts and calendars to visualize project schedules and timelines."
+version: 1.0.0
+homepage: https://github.com/JaySyntax/Gantt
+repository: https://github.com/JaySyntax/Gantt
 
 environment:
   sdk: ^3.8.1
