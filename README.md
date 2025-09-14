@@ -8,7 +8,7 @@ A flexible and customizable Gantt chart calendar widget for Flutter applications
   <tr>
     <td align="center">
       <strong>iOS</strong><br>
-      <img src="https://github.com/user-attachments/assets/07762d27-ad7f-4971-9b09-3382424e0a87" alt="Gantt Calendar iOS Demo" width="300">
+      <img src="https://firebasestorage.googleapis.com/v0/b/claire-412b8.appspot.com/o/ios_demo.gif?alt=media&token=f3a32ca2-7ee2-42c8-a7b5-9a17c5f99ee8" alt="Gantt Calendar iOS Demo" width="300">
     </td>
     <td align="center">
       <strong>Android</strong><br>
